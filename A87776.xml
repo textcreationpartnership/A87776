@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kingly myrrour, or King Charles his last legacy to the prince his son. Written a little before his death. Containing many excellent instructions and directions, how to carry himselfe in all estates and conditions. And may serve as a good monitor for all the princes in Christendome.</title>
+            <author>Gauden, John, 1605-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87776</idno>
+            <idno type="STC">Wing K588</idno>
+            <idno type="STC">Thomason E1317_5</idno>
+            <idno type="STC">ESTC R209063</idno>
+            <idno type="EEBO-CITATION">99867968</idno>
+            <idno type="PROQUEST">99867968</idno>
+            <idno type="VID">169766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169766)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 176:E1317[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kingly myrrour, or King Charles his last legacy to the prince his son. Written a little before his death. Containing many excellent instructions and directions, how to carry himselfe in all estates and conditions. And may serve as a good monitor for all the princes in Christendome.</title>
+                  <author>Gauden, John, 1605-1662.</author>
+                  <author>Charles I, King of England, 1600-1649, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 20 p. : ill., ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.V.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Authorship of the Eikon basilike was originally attributed to Charles I, but according to Madan (pp. 125-33) it was written by John Gauden who probably included some authentic writings of the king.</note>
+                  <note>This is a reprint of chapter 27 of the Eikon. The printer is unknown and the initials C.V. in imprint are probably an invention. -- Madan.</note>
+                  <note>Annotation on Thomason copy: "Aprill 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Education of princes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:169766:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of King Charles I and his son</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:169766:2"/>
+            <p>THE Kingly Myrrour, OR King Charles His laſt Legacy to the Prince His Son.</p>
+            <p>Written a little before His Death.</p>
+            <p>Containing Many excellent inſtructi<g ref="char:EOLhyphen"/>ons and Directions, how to carry Himſelfe in all E<g ref="char:EOLhyphen"/>ſtates and Conditions.</p>
+            <p>AND May ſerve as a good Mo<g ref="char:EOLhyphen"/>nitor for all the Princes in <hi>Chriſtendome.</hi>
+            </p>
+            <p>
+               <add>Aprill 11<hi rend="sup">th</hi>
+               </add> 
+               <hi>London</hi> Printed for C. V. 1649.</p>
+            <pb facs="tcp:169766:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169766:3"/>
+            <pb n="1" facs="tcp:169766:3"/>
+            <head>The Kingly Myrrour:</head>
+            <opener>
+               <salute>SOn,</salute>
+            </opener>
+            <p>If theſe Papers, with ſome others, wherin I have ſet downe the private refle<g ref="char:EOLhyphen"/>ctions of my conſcience, and my moſt impar<g ref="char:EOLhyphen"/>tial thoughts touching the chiefe paſſages, which have bin moſt remarkable, or diſpu<g ref="char:EOLhyphen"/>ted in my late troubles, come to your hands, to whom they are cheifly deſigned; they may be ſo far uſeful to you, as to ſtate your judge<g ref="char:EOLhyphen"/>ment aright in what hath paſſed; whereof a pious is the beſt uſe can be made; &amp; they may alſo give you ſome directions, how to reme<g ref="char:EOLhyphen"/>dy the preſent diſtempers, and prevent (if God will) the like for time to come.</p>
+            <p>It is ſome kind of deceiving &amp; leſſening the injury of my long reſtraint, when I find my leiſure &amp; ſolitude have produced ſomething worthy of my ſelf; &amp; uſeful to you, That nei<g ref="char:EOLhyphen"/>ther You nor any other may hereafter mea<g ref="char:EOLhyphen"/>ſure My Cauſe by the ſucceſſe, nor my judge<g ref="char:EOLhyphen"/>ment of things by my misfortunes, which I count the greater by far, becauſe they have ſo far lighted upon you, and ſome others whom I have cauſe to love as wel as my ſelf, and of whoſe unmerited ſufferings I have a greater ſenſe then of mine own.</p>
+            <p>But this advantage of wiſdome You have above moſt Princes, that You have begun, and
+<pb n="2" facs="tcp:169766:4"/>now ſpent ſome years of diſcretion, in the experience of troubles, and exerciſe of pati<g ref="char:EOLhyphen"/>ence, wherein Piety, and all Vertues, both Morall and Politicall, are commonly better planted to a thriving (as trees ſet in winter) then in the warmth, and ſerenity of times, or amidſt thoſe delights, which uſually attend Princes Courts in times of peace and plenty which are prone, either to root up all plants of true vertue and honour, or to be content<g ref="char:EOLhyphen"/>ed only with ſome leaves, and withering for<g ref="char:EOLhyphen"/>malities of them, without any reall fruits, ſuch as tend to the publick good, for which Princes ſhould alwayes remember they are born, and by providence deſigned.</p>
+            <p>The evidence of which different education the holy Writ affords us in the contemplati<g ref="char:EOLhyphen"/>on of <hi>David</hi> &amp; <hi>Rehoboham:</hi> The one prepared, by many aflictions for a flouriſhing kingdom the other ſoftened by the unparaleld proſpe<g ref="char:EOLhyphen"/>rity of <hi>Solomons</hi> Court, and ſo corrupted to the great diminution, both for peace, honor, and Kingdom, by thoſe flatteries, which are as unſeparable from proſperous Princes, as Flies, are from fruit in ſummer, whom ad<g ref="char:EOLhyphen"/>verſitie, like cold weather, drives away.</p>
+            <p>I had rather you ſhould bee <hi>Charles le Bon,</hi> then <hi>le Grand,</hi> good then great, I hope God hath deſigned you to be both, having ſo ear<g ref="char:EOLhyphen"/>ly put you into that exerciſe of his graces &amp;,
+<pb n="3" facs="tcp:169766:4"/>gifts beſtowed upon you, which may beſt weed out al vitious inclinations, and diſpoſe you to thoſe Princely endowments, and em<g ref="char:EOLhyphen"/>ployments, which will moſt gain the love, and intend the welfare of thoſe, over whom God ſhall place you.</p>
+            <p>With God I would have you begin and end, who is King of Kings; the Soveraigne diſpoſer of the Kingdomes of the world, who pulleth down one, and ſetteth up ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The beſt Government, and higheſt Sove<g ref="char:EOLhyphen"/>raignty you can attain to, is, to be ſubject to him, that the Scepter of his Word and Spirit may rule in your heart.</p>
+            <p>The true glory of Princes conſiſts in advan<g ref="char:EOLhyphen"/>cing Gods glory in the maintenance of true Religion, and the Churches good; Alſo in the diſpenſation of civil Power, with Juſtice and Honour to the publicke peace.</p>
+            <p>Piety will make you proſperous, at leaſt it will keep you from being miſerable; nor is he much a loſer, that loſeth all, yet ſaveth his own ſoul at laſt.</p>
+            <p>To which Center of true happines, God, I truſt, hath and wil graciouſly direct all theſe black lines of affliction, which he hath been pleaſed to draw on me, &amp; by which he hath [I hope] drawn me nearer to himſelf. You have already taſted of that Cup whereof I
+<pb n="4" facs="tcp:169766:5"/>have liberally drank, which I look upon as Gods Phiſick, having that in healthfullneſſe which it wants in pleaſure.</p>
+            <p>Above all, I would have you, as I hope you are already; wel-grounded &amp; ſettled in your Religion: the beſt profeſſion of which, I have ever eſteemed that of the church of <hi>England,</hi> in which you have bin educated yet I would have your own Judgement and Reaſon now ſeale to that ſacred bond which education hath written, that it may be judiciouſly your owne Religion, and not other mens cuſtome or tradition, which you profeſſe.</p>
+            <p>In this I charge you to preſerve, as com<g ref="char:EOLhyphen"/>ming neareſt to Gods Word for Doctrine, &amp; to the primitive examples for Government, with ſome little amendment, which I have otherwhere expreſſed &amp; often offered, though in vain. Your fixation in matters of Religion wil not be more neceſſary for your ſoul then your Kingdoms peace, when God ſhall bring you to them.</p>
+            <p>For I have obſerved that the Devill of Re<g ref="char:EOLhyphen"/>bellion, doth commonly turne himſelfe into an Angel of Reformation; and the old Ser<g ref="char:EOLhyphen"/>pent can pretend new Lights; when ſome mens conſciences accuſe them for ſedition &amp; faction, they ſtop its mouth with the name and noiſe of Religion; when Piety pleads for peace and patience, they cry out Zeal.</p>
+            <pb n="5" facs="tcp:169766:5"/>
+            <p> So that, unleſſe in this point, You be well ſetled, you ſhall never want temptations to deſtroy you and yours, under pretenſions of reforming matters of Religion, for that ſeemes even to worſt men, as the beſt &amp; moſt auſpicious beginning of their worſt deſigns.</p>
+            <p>Where, beſides the Novilty which is taking enough with the Vulgar, every one hath an affection, by ſeeming forward to an outward Reformation of Religion, to be thought zea<g ref="char:EOLhyphen"/>lous, hoping to cover thoſe irreligious defor<g ref="char:EOLhyphen"/>mities, wherto they are conſcious by a ſeveri<g ref="char:EOLhyphen"/>ty of cenſuring other mens opinions or acti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Take heed of abetting any Factions, or ap<g ref="char:EOLhyphen"/>plying to any publicke Diſcriminations in matters of Religion, contrary to what is in your judgement, and the Church wel ſetled your partial adhering as head, to any oneſide gains you not ſo great advantages in ſome mens hearts (who are prone to be of their Kings Religion) as it loſeth you in others, who think themſelves, &amp; their profeſſion firſt deſpiſed, then perſecuted <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you: take ſuch a courſe as may either with calmnes &amp; charity quite remove the ſeeming differences &amp; of<g ref="char:EOLhyphen"/>fences, by impartiality, or ſo order affairs in point of power that you ſhal not need to fear or flatter any faction; for if ever you ſtand in need of them, or muſt ſtand to their courteſie
+<pb n="6" facs="tcp:169766:6"/>you are undon: the Serpent will devour the Dove: you may never expect leſs of loyalty, juſtice, or humanity, then from thoſe who in<g ref="char:EOLhyphen"/>gage into religious rebellion: Their intereſt is always made Gods, under the colors of Pi<g ref="char:EOLhyphen"/>ety, ambitions policies march, not only with greateſt ſecurity, but applauſe, as to the po<g ref="char:EOLhyphen"/>pulacy; you may hear from them <hi>Iacobs</hi> voice but you ſhall feel they have <hi>Eſau's</hi> hands.</p>
+            <p>Nothing ſeemed leſs conſiderable then the <hi>Presbyterian</hi> faction in <hi>England,</hi> for many years; ſo compliant they were to publick order: nor indeed was their party great, either in Church, or State, as to mens judgements: But as ſoon, as diſcontents drave men into Sid<g ref="char:EOLhyphen"/>ings (as ill humors fal to the diſaffected part, which cauſe inflamations) ſo did all, at firſt who affected any novelties adhere to that fide, as the moſt remarkeable &amp; ſpecious note of difference (then) in point of Religion.</p>
+            <p>All the leſſer Factions at firſt were officious ſervants to <hi>Presbytery</hi> their great Maſter: till time &amp; military ſucceſs diſcovering to each their particular advantages, invited them to part ſtaks, &amp; leaving the joynt ſtock of uni<g ref="char:EOLhyphen"/>form Religion, pretended each to drive for their party, the trade of profits or prefer<g ref="char:EOLhyphen"/>ments, to the breaking &amp; undoing not only of the Church &amp; State, but even of <hi>Presbytery</hi> it ſelf, which ſeemed &amp; hoped at firſt to have ingroſſed all.</p>
+            <pb n="7" facs="tcp:169766:6"/>
+            <p> Let nothing ſeem little or deſpicable to you, in matters which concern Religion, and the Churches peace, ſo as to neglect a ſpeedy re<g ref="char:EOLhyphen"/>forming and effectual ſuppreſſing errors, and ſchiſms, which ſeem at firſt but as a hand<g ref="char:EOLhyphen"/>bredth, by ſeditious Spirits, as by ſtrong winds are ſoone made to cover and darken the whole Heaven.</p>
+            <p>When you have done juſtice to God, your own ſoul, and his Church, in the profeſſion, &amp; preſervation both of truth &amp; unity of Reli<g ref="char:EOLhyphen"/>gion. The next main hing on which your proſperity will depend, and move, is, that of civil juſtice, wherein the ſetled Laws of theſe kingdoms, to which you are rightly heir, are the moſt excellent rules you can govern by; which by an admirable temperament give very much to Subjects induſtery, liberty, and happines &amp; yet reſerve enough to the Maje<g ref="char:EOLhyphen"/>ſty &amp; Prerogative of any King who own his people as Subjects not as ſlaves; whoſe ſub<g ref="char:EOLhyphen"/>jection as it preſerves their propriety, peace, and ſafety; ſo it will never diminiſh your. Rights, nor their ingenuous liberties; which conſiſts in the injoiment of the fruits of their induſtry, and the benefit of thoſe Lawes to which themſelves have conſented.</p>
+            <p>Never charge your Head with ſuch a Crown, as ſhall by its heavineſs oppreſs the whole body, the weakneſs of whoſe parts
+<pb n="8" facs="tcp:169766:7"/>cannot return any thing of ſtrength, honor, or ſafety, to the Head, but a neceſſary debilitati<g ref="char:EOLhyphen"/>on and ruine.</p>
+            <p>Your Prerogative is beſt ſhewed, and exer<g ref="char:EOLhyphen"/>ciſed in remitting, rather an exacting the rigor of the Laws, there being nothing worſe, then legal tyranny.</p>
+            <p>In theſe two points, the preſervation of e<g ref="char:EOLhyphen"/>ſtabliſhed Religion and Laws, I may (without vanity) turne the reproach of my ſufferings, as to the worlds cenſure, into the honour of a kind of Martyrdome, as to the teſtimony of my owne Conſcience. The troubles of my Kingdomes have nothing elſe to object againſt me but this, That I prefer Religion and Laws eſtabliſhed, before thoſe alterations they pro<g ref="char:EOLhyphen"/>pounded.</p>
+            <p>And ſo indeed I do, and ever ſhall, till I am convinced by better Arguments, then what hitherto have been cheifly uſed towards me, Tumults, Armies, and Priſons.</p>
+            <p>I cannot yet learn that leſſon, nor I hope e<g ref="char:EOLhyphen"/>ver will you, That it is ſafe for a King to gra<g ref="char:EOLhyphen"/>tifie any Faction with the perturbation of the Laws, in which is wrapt up the publick Inter<g ref="char:EOLhyphen"/>eſt, and the good of the community.</p>
+            <p>How God will deale with mee, as to the removeall of theſe preſures, and indignities, which his juſtice by the very unjuſt hands of ſome of my Subjects, hath been pleaſed to lay
+<pb n="9" facs="tcp:169766:7"/>upon Me, I cannot tell: nor am I much ſo<g ref="char:EOLhyphen"/>licitous what wrong I ſuffer from men, while I retain in my ſoul, what I beleeve is right be<g ref="char:EOLhyphen"/>fore God.</p>
+            <p>I have offered all for Reformation and Safe<g ref="char:EOLhyphen"/>ty, that in Reaſon, Honour and Conſcience I can; reſerving only what I cannot conſent unto, without an irreparable injury to my own ſoule, the Church, and my people, and to you alſo; as the next and undoubted Heir of my Kingdoms.</p>
+            <p>To which if the divine Providence to whom no difficulties are inſuperable, ſhall in his due time after my diſceaſe bring you, as I hope he will: My Counſel and Charge to you, is, That you ſeriouſly conſider the former real or ob<g ref="char:EOLhyphen"/>jected miſcarriages, which might occaſion my troubles, that you may avoid them.</p>
+            <p>Never repoſe ſo much upon any mans ſingle councel, fidelity, and diſcretion, in managing affairs of the firſt magnitude, (that is, matters of Religion and Juſtice) as to creaſe in your ſelf, or others, a diffidence of your own judg<g ref="char:EOLhyphen"/>ment, which is likely to be always more con<g ref="char:EOLhyphen"/>ſtant and impartial to the intereſt of your Crown and Kingdome then any mans.</p>
+            <p>Next beware of exaſperating any Factions by the croſſeneſſe, and aſperity of ſome mens paſſions, humors, or private opinions, im<g ref="char:EOLhyphen"/>ployed by you, grounded only upon the dif<g ref="char:EOLhyphen"/>ferences
+<pb n="10" facs="tcp:169766:8"/>in leſſer matters, which are but the skirts and ſuburbs of Religion.</p>
+            <p>Wherein a charitable connivence and Chri<g ref="char:EOLhyphen"/>ſtian toleration often diſſipates their ſtrength, whom rougher oppoſition fortifies: and puts the diſpiſed and oppreſſed party, into ſuch Combinations, as may moſt enable them to get a full revenge on thoſe they count their Perſecutors, who are commonly aſſiſted by that vulgar commiſeration, which attends all, that are ſaid to ſuffer under the notion of Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>Provided the differences amount not to an inſolent oppoſition of Laws, and Government, or Religion eſtabliſhed, as to the eſſentialls of them, ſuch motions and minings are into<g ref="char:EOLhyphen"/>lerable.</p>
+            <p>Alwayes keep up ſolid piety, and thoſe fun<g ref="char:EOLhyphen"/>damentall Truths (which mend both hearts and lives of men) with impartiall favour and Juſtice.</p>
+            <p>Take heed that outward circumſtances and formalities of Religion devour not all, or the beſt incouragements of learning, induſtry, and piety, but with an equall eye and impart<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>all hand, deſtribute favours, and reward to all men, as you find them for their reall goodneſſe both in abilities and fidelities worthy and ca<g ref="char:EOLhyphen"/>pable of them.</p>
+            <p>This will bee ſure to gain you the hearts of
+<pb n="11" facs="tcp:169766:8"/>the beſt and the moſt too: who though they be not good themſelves, yet are glad to ſee the ſeverer wayes of virtue at any time ſweetned by temporall rewards.</p>
+            <p>I have, You ſee, conflicted with different and oppoſite Factions (for ſo <hi>I</hi> muſt needs call and count all thoſe, that act not in any conformity to the Lawes, eſtabliſhed in Church and State) to ſooner have they by force ſubdued what they counted their common Enemy, (that is, all thoſe that adhered to the Laws, and to Me) and are ſecured from that feare, but they are divided to ſo high a rivalty, as ſets them more at defiance againſt each other, then againſt their firſt Antagoniſts.</p>
+            <p>Time will diſſipate all Factions, when once the rough hornes of private mens covetous and ambitious deſignes, ſhall diſcover themſelves; which were at firſt wrapt up and hidden under the ſoft and ſmooth pretenſions of Religion, Reformation and Liberty: As the Wolf is not leſſe cruel, ſo he wil he more juſtly hated, when he ſhall appear no better than a Wolfe under Sheeps cloathing.</p>
+            <p>But as for the ſeduced Traine of the Vul<g ref="char:EOLhyphen"/>gar, who in their ſimplicity follow thoſe diſguiſes; My Charge and Councell to you, is, That as yee need no palliations for any deſignes, (as other men) ſo that you ſtudy re<g ref="char:EOLhyphen"/>ally to exceed [in true and conſtant demon<g ref="char:EOLhyphen"/>ſtrations
+<pb n="16" facs="tcp:169766:9"/>of goodneſſe, piety, and vertue, to<g ref="char:EOLhyphen"/>wards the People) even all thoſe men, that make the greateſt noiſe and oſtentations of Religion, ſo you ſhall neither feare any de<g ref="char:EOLhyphen"/>tection, (as they ſay, who have but the face and mask of goodneſs) nor ſhal you fruſtrate the juſt expectations of your people, who cannot in Reaſon promiſe themſelves ſo much good from any Subjects novelties, as from the vertuous conſtancy of their <hi>King.</hi>
+            </p>
+            <p>When theſe mountains of congealed fa<g ref="char:EOLhyphen"/>ctions ſhall by the Sunſhine of Gods mercy, and the ſplendor of your vertues be thawed and diſſipated; and the abuſed Vulgar ſhall have learned, that none are greater Op<g ref="char:EOLhyphen"/>preſſors of their Eſtates, Liberties, and Conſciences, than thoſe men that entitle themſelves, the Patrons and Vindicators of them, only to uſurp power over them: Let then no paſſion betray you, to any ſtudy of revenge upon thoſe, whoſe own ſin and fol<g ref="char:EOLhyphen"/>ly will ſufficiently puniſh them in due time.</p>
+            <p>But as ſoon as the forked arrow of factious emulations is drawn out, uſe all princely arts and clemency to heal the wounds that the ſmart of the cure may not equall the an<g ref="char:EOLhyphen"/>guiſh of the hurt.</p>
+            <p>I have offered Acts of indempnity, and Oblivion, to ſo great a latitude, as may in<g ref="char:EOLhyphen"/>clude all, that can but ſuſpect themſelves to
+<pb n="13" facs="tcp:169766:9"/>be any way obnoxious to the Lawes; and which might ſerve to exclude all future jea<g ref="char:EOLhyphen"/>louſies and inſecurities.</p>
+            <p>I would have you alwaies propenſe to the ſame way, when ever it ſhall be deſired and accepted, let it be granted, not only as an Act of State policy and neceſſity, but of chri<g ref="char:EOLhyphen"/>ſtian charitie and choice.</p>
+            <p>It is all I have now left me, a power to for<g ref="char:EOLhyphen"/>give thoſe that have deprived me of all; and I thank God, I have a heart to do it, and joy as much in this grace, which God hath given me, as in all my former enjoyments; for this is a greater argument of Gods love to me, then any proſperity can be.</p>
+            <p>Be confident (as I am) that the moſt of all ſides who have done amiſſe, have done ſo, not out of malice but miſ-information or miſ<g ref="char:EOLhyphen"/>apprehenſion of things.</p>
+            <p>None will be more loyal and faithfull to me &amp; you, then thoſe Subjects who are ſenſi<g ref="char:EOLhyphen"/>ble of their Errors, and our Injuries, wil feel in their own Souls moſt vehement motives to repentance, and earneſt deſires to make ſome reparation for their former defects.</p>
+            <p>As your quality ſets you beyond any Du<g ref="char:EOLhyphen"/>ell with any Subject, ſo the nobleneſs of your mind muſt raiſe you above the medi<g ref="char:EOLhyphen"/>tating any revenge, or executing your anger upon the many.</p>
+            <pb n="14" facs="tcp:169766:10"/>
+            <p> The more conſcious you ſhall be to your own merits, upon your people, the more prone you will be to expect all love and loy<g ref="char:EOLhyphen"/>alty from them, and to inflict no puniſhment upon them for former miſcarriages: You will have more inward complacency in par<g ref="char:EOLhyphen"/>doing one than in puniſhing a thouſand.</p>
+            <p>This I write to you, not deſparing of Gods mercy, and my Subjects affections towards you, both which, I hope you will ſtudy to deſerve, yet we cannot merit of God, but by his own mercy.</p>
+            <p>If God ſhall ſee fit to reſtore me, and you after me, to thoſe enjoyments, which the Laws have aſſigned to us, and no Subjects without an high degree of guilt and ſin can diveſt us of, then may I have better oppor<g ref="char:EOLhyphen"/>tunity, when I ſhall be ſo happy to ſee you in peace, to let you more fully underſtand the things that belong to Gods glory, your own honour and the Kingdoms peace.</p>
+            <p>But if you never ſee my face againe, and God will have me buried in ſuch a barba<g ref="char:EOLhyphen"/>rous impriſonment and obſcurity, (which the perfecting ſome mens deſigns require) wherein few hearts that love me are Permit<g ref="char:EOLhyphen"/>ted to exchange a word or a look with me, I doe require and entreat you as your Fa<g ref="char:EOLhyphen"/>ther, and your King, that you never ſuffer your heart to receive the leaſt check againſt,
+<pb n="15" facs="tcp:169766:10"/>or diſ-affection from the true Religion eſta<g ref="char:EOLhyphen"/>bliſhed in the Church of England.</p>
+            <p>I tell you I have tried it, and after much ſearch, and many diſputes, have concluded it to be the beſt in the world, not only in the Community as Chriſtian, but alſo in the ſpe<g ref="char:EOLhyphen"/>ciall notion as reformed, keeping the mid<g ref="char:EOLhyphen"/>dle way between the pomp of ſuperſtitions Tyranny, and the meanneſſe of fantaſtique Anarchy.</p>
+            <p>Not but that the draught being excellent as to the main, both for Doctrine and Go<g ref="char:EOLhyphen"/>vernment in the Church of <hi>England</hi>) ſome lines, as in very good figures, may happily need ſome ſweetning or poliſhing, which might here have eaſily been done by a ſafe and gentle hand: if ſome mens precipitan<g ref="char:EOLhyphen"/>cie had not violently demanded ſuch rude alterations, as would have quite deſtroyed all the beauty and proportions of the whole.</p>
+            <p>The ſcandall of the late Troubles, which ſome may object, and urge to you againſt the Proteſtant Religion eſtabliſhed in <hi>England,</hi> is eaſily anſwered to them, or your owne thoughts in this, That ſcarce any one who hath been a Beginner, or an active proſecu<g ref="char:EOLhyphen"/>tor of this late War againſt the Church, the Lawes, and me, either was, or is a true Lover, Embracer, or Practiſer of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="16" facs="tcp:169766:11"/>eſtabliſhed in <hi>England,</hi> which neither gives ſuch rule, nor ever before ſet ſuch ex<g ref="char:EOLhyphen"/>amples.</p>
+            <p>Tis true, ſome heretofore had the bold<g ref="char:EOLhyphen"/>neſſe to preſent threatning Petitions to their Princes and Parliaments, which others of the ſame Faction (but of worſe Spirits) have now put in execution: but let not counterfeit and diſorderly zeal abate your value and e<g ref="char:EOLhyphen"/>ſteem of true piety, both of them are to be known by their fruits, the ſweetneſs of the Wine &amp; fig-tree is not to be deſpiſed, though the Brambles and thornes ſhould pretend to bear figs and grapes, thereby to rule over the Trees.</p>
+            <p>Nor would I have you to entertain any a<g ref="char:EOLhyphen"/>verſation, or diſlike of Parliaments, which in their right conſtitution with freedome and honour will never injure or diminiſh your greatneſs, but will rather be as interchange<g ref="char:EOLhyphen"/>ings of love and lovaltie and confidence be<g ref="char:EOLhyphen"/>tween a Prince and his People.</p>
+            <p>Nor would the events of this black Parlia<g ref="char:EOLhyphen"/>ment have been other than ſuch (however much by aſſed by Factions in the Elections) if it had been preſerved from the inſolencies of popular dictates, and tumultuary impreſſi<g ref="char:EOLhyphen"/>ons: The ſad effects of which will no doubt make all Parliaments after this more cauti<g ref="char:EOLhyphen"/>ons to preſerve that Freedom, and Honour,
+<pb n="17" facs="tcp:169766:11"/>which belongs to ſuch aſſemblies when once they have fully ſhaken off this yoak of Vul<g ref="char:EOLhyphen"/>gar encroachment, ſince the publike intereſt conſiſts in the mutuall and common good both of Prince and people.</p>
+            <p>Nothing can be more happy for all, than in fair, grave, and Honourable waies to contri<g ref="char:EOLhyphen"/>bute their Councels in common, enacting all things by publike conſent; without Tyranny or Tumults. We muſt not ſtarve our ſelves, becauſe ſome men have ſurfeited of whole<g ref="char:EOLhyphen"/>ſome food.</p>
+            <p>And if neither I, nor you, be ever reſtored to our rights, but God in his ſevereſt juſtice, will puniſh my Subjects with continuance in their ſin, and ſuffer them to be deluded with the proſperity of their wickedneſſe; I hope God will give me and you that grace, which wil teach and enable us, to want, as well as to wear a Crown, which is not worth taking up, or enjoying upon ſordid, diſhonourable, and irreligious termes.</p>
+            <p>Keep you to true principles of piety, ver<g ref="char:EOLhyphen"/>tue and honour, you ſhall never want a king<g ref="char:EOLhyphen"/>dom.</p>
+            <p>A principle point of your honour wil con<g ref="char:EOLhyphen"/>ſiſt in your deferring all reſpect, love, and protection to your mother, my Wife; who hath many waies deſerved well of me, and chiefly in this, that having been a means to
+<pb n="18" facs="tcp:169766:12"/>bleſſe me with ſo many hopeful children <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (all which, with their mother; I recommend to your love and care) ſhee hath been con<g ref="char:EOLhyphen"/>tent with incomparable magnanimity and patience to ſuffer both for, and with me, and you.</p>
+            <p>My prayer to God almighty is, (what even becomes of me, who am, I thank God, wrapt up and fortified in my own innocency and his Grace) that he would be pleaſed to make you an Anchor or Harbour rather, to theſe toſſed and weather-beaten Kingdoms a Re<g ref="char:EOLhyphen"/>pairer by your wiſedom, juſtice, piety, and love, of what the folly and wickedneſſe of ſome men have ſo far ruined, as to leave no<g ref="char:EOLhyphen"/>thing intire in Church or ſtate, to the crown the Nobility, the Clergy, or the Commons; either as to Laws, liberties, eſtates, order, ho<g ref="char:EOLhyphen"/>nour, conſcience or lives.</p>
+            <p>When they have deſtroyed me (for I know not how far God may permit the malice and cruelty of my enemies to proceed, and ſuch apprehenſions ſome mens words and actions have already given me) as I doubt not but my blood will cry aloud for vengeance to Hea<g ref="char:EOLhyphen"/>ven; ſo I beſeech God not to pour out his wrathupon the generality of the people, who have either deſerted me, or ingaged againſt me, through the artifice and hypocriſie of their Leaders, whoſe inward horror will be
+<pb n="19" facs="tcp:169766:12"/>their firſt Tormenter, nor will they eſcape ex<g ref="char:EOLhyphen"/>emplary judgements.</p>
+            <p>For thoſe that loved me, I pray God, they may have no miſſe of Me, when I am gone; ſo much I wiſh and hope, that all good Subjects may be ſatisfied with the bleſſings of your pre<g ref="char:EOLhyphen"/>ſence and vertues.</p>
+            <p>For thoſe that repent of any defects in their duty toward me, as I freely forgive them in the word of a Chriſtian King, ſo I beleeve you will find them truly Zealous, to repay with intereſt that loyalty and love to you, which was due to me.</p>
+            <p>In ſumme, what good I intended, doe you perform; when God ſhall give you power: much good I have offered, more I purpoſed to Church and State, if times had been capable of it.</p>
+            <p>The diſception will ſoon vaniſh, and the Vizard will fall off a pace, This maske of Re<g ref="char:EOLhyphen"/>ligion on the face of Rebellion (for ſo it now plainly appeares, ſince my Reſtraint and cruell uſage, that they ſought not for me, as was pre<g ref="char:EOLhyphen"/>tended) will not long ſerve to hide ſome mens deformities.</p>
+            <p>Happy times I hope, attend you, wherein your Subjects [by their miſeries] will have learned, That Religion to their God, and Loy<g ref="char:EOLhyphen"/>alty to their King, cannot bee parted without both their ſinne and their infelicity.</p>
+            <pb n="20" facs="tcp:169766:13"/>
+            <p> I pray God bleſſe you and eſtabliſh you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdoms in righteouſneſſe, your Soule in true Religion, and your honor in the love o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God and your people.</p>
+            <p>And if God will have diſloyalty perfected by my deſtruction; let my memory ever, with my name, live in you; as of your Father, that loves you, and once a King of three flouriſh<g ref="char:EOLhyphen"/>ing Kingdoms; whom God thought fit to honor, not only with the Scepter &amp; govern<g ref="char:EOLhyphen"/>ment of them, but alſo with the ſuffering many indignities, &amp; an untimely death for them; while I ſtudied to preſerve the rights of the Church, the power of the Laws, the ho<g ref="char:EOLhyphen"/>nor of my Crown, the priviledges of Parlia<g ref="char:EOLhyphen"/>ments, the liberties of my people, and my own Conſcience, which I thank God is dear<g ref="char:EOLhyphen"/>er to me then a thouſand Kingdoms.</p>
+            <p>I know God can, I hope he yet will re<g ref="char:EOLhyphen"/>ſtore me to my Rights. I cannot diſpair ei<g ref="char:EOLhyphen"/>ther of his mercy, or of my peoples love and pity.</p>
+            <p>At worſt, I truſt I ſhal but go before you to a better Kingdom, which God hath prepar<g ref="char:EOLhyphen"/>ed for me, and me for it, through my Savior Jeſus Chriſt, to whoſe mercies I commend you and all mine.</p>
+            <closer>
+               <salute>Farewell, till We meet if not on Earth, yet in Heaven.</salute>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
